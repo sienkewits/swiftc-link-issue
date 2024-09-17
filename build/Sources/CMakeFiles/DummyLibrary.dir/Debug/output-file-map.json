@@ -1,0 +1,909 @@
+{
+	"" : 
+	{
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/Debug/DummyLibrary.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy1.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy1.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy1.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy1.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy1.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy10.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy10.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy10.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy10.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy10.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy100.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy100.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy100.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy100.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy100.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy101.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy101.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy101.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy101.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy101.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy102.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy102.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy102.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy102.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy102.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy103.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy103.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy103.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy103.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy103.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy104.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy104.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy104.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy104.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy104.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy105.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy105.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy105.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy105.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy105.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy106.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy106.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy106.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy106.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy106.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy107.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy107.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy107.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy107.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy107.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy108.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy108.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy108.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy108.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy108.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy109.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy109.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy109.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy109.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy109.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy11.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy11.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy11.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy11.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy11.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy110.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy110.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy110.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy110.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy110.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy111.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy111.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy111.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy111.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy111.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy112.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy112.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy112.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy112.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy112.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy113.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy113.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy113.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy113.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy113.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy114.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy114.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy114.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy114.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy114.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy115.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy115.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy115.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy115.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy115.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy116.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy116.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy116.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy116.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy116.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy117.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy117.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy117.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy117.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy117.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy118.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy118.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy118.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy118.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy118.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy119.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy119.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy119.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy119.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy119.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy12.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy12.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy12.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy12.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy12.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy120.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy120.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy120.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy120.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy120.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy121.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy121.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy121.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy121.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy121.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy122.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy122.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy122.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy122.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy122.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy123.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy123.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy123.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy123.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy123.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy124.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy124.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy124.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy124.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy124.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy125.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy125.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy125.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy125.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy125.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy126.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy126.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy126.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy126.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy126.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy127.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy127.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy127.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy127.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy127.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy128.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy128.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy128.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy128.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy128.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy129.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy129.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy129.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy129.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy129.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy13.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy13.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy13.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy13.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy13.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy14.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy14.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy14.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy14.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy14.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy15.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy15.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy15.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy15.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy15.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy16.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy16.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy16.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy16.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy16.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy17.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy17.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy17.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy17.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy17.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy18.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy18.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy18.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy18.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy18.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy19.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy19.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy19.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy19.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy19.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy2.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy2.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy2.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy2.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy2.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy20.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy20.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy20.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy20.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy20.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy21.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy21.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy21.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy21.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy21.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy22.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy22.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy22.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy22.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy22.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy23.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy23.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy23.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy23.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy23.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy24.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy24.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy24.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy24.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy24.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy25.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy25.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy25.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy25.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy25.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy26.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy26.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy26.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy26.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy26.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy27.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy27.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy27.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy27.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy27.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy28.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy28.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy28.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy28.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy28.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy29.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy29.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy29.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy29.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy29.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy3.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy3.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy3.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy3.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy3.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy30.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy30.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy30.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy30.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy30.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy31.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy31.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy31.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy31.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy31.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy32.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy32.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy32.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy32.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy32.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy33.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy33.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy33.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy33.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy33.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy34.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy34.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy34.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy34.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy34.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy35.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy35.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy35.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy35.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy35.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy36.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy36.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy36.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy36.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy36.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy37.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy37.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy37.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy37.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy37.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy38.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy38.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy38.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy38.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy38.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy39.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy39.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy39.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy39.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy39.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy4.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy4.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy4.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy4.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy4.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy40.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy40.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy40.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy40.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy40.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy41.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy41.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy41.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy41.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy41.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy42.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy42.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy42.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy42.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy42.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy43.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy43.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy43.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy43.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy43.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy44.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy44.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy44.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy44.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy44.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy45.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy45.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy45.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy45.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy45.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy46.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy46.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy46.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy46.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy46.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy47.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy47.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy47.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy47.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy47.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy48.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy48.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy48.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy48.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy48.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy49.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy49.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy49.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy49.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy49.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy5.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy5.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy5.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy5.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy5.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy50.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy50.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy50.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy50.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy50.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy51.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy51.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy51.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy51.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy51.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy52.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy52.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy52.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy52.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy52.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy53.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy53.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy53.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy53.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy53.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy54.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy54.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy54.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy54.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy54.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy55.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy55.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy55.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy55.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy55.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy56.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy56.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy56.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy56.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy56.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy57.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy57.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy57.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy57.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy57.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy58.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy58.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy58.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy58.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy58.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy59.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy59.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy59.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy59.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy59.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy6.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy6.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy6.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy6.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy6.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy60.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy60.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy60.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy60.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy60.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy61.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy61.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy61.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy61.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy61.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy62.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy62.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy62.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy62.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy62.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy63.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy63.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy63.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy63.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy63.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy64.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy64.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy64.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy64.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy64.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy65.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy65.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy65.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy65.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy65.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy66.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy66.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy66.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy66.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy66.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy67.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy67.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy67.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy67.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy67.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy68.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy68.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy68.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy68.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy68.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy69.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy69.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy69.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy69.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy69.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy7.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy7.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy7.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy7.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy7.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy70.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy70.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy70.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy70.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy70.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy71.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy71.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy71.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy71.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy71.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy72.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy72.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy72.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy72.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy72.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy73.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy73.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy73.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy73.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy73.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy74.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy74.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy74.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy74.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy74.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy75.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy75.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy75.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy75.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy75.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy76.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy76.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy76.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy76.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy76.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy77.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy77.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy77.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy77.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy77.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy78.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy78.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy78.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy78.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy78.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy79.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy79.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy79.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy79.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy79.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy8.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy8.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy8.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy8.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy8.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy80.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy80.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy80.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy80.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy80.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy81.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy81.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy81.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy81.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy81.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy82.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy82.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy82.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy82.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy82.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy83.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy83.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy83.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy83.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy83.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy84.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy84.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy84.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy84.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy84.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy85.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy85.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy85.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy85.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy85.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy86.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy86.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy86.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy86.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy86.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy87.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy87.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy87.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy87.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy87.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy88.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy88.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy88.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy88.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy88.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy89.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy89.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy89.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy89.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy89.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy9.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy9.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy9.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy9.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy9.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy90.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy90.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy90.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy90.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy90.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy91.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy91.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy91.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy91.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy91.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy92.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy92.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy92.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy92.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy92.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy93.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy93.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy93.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy93.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy93.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy94.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy94.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy94.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy94.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy94.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy95.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy95.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy95.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy95.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy95.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy96.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy96.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy96.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy96.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy96.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy97.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy97.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy97.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy97.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy97.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy98.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy98.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy98.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy98.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy98.swift.o.swiftdeps"
+	},
+	"/Users/mimir/Research/swiftc-debug-link-bug/Sources/DummyFiles/Dummy99.swift" : 
+	{
+		"dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy99.swift.o.d",
+		"diagnostics" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy99.swift.o.dia",
+		"object" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy99.swift.o",
+		"swift-dependencies" : "Sources/CMakeFiles/DummyLibrary.dir/DummyFiles/Dummy99.swift.o.swiftdeps"
+	}
+}
