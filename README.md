@@ -37,4 +37,4 @@ It is (in this case) the response file, arguments-7492443228980014747.resp, whic
 
 ### Note:
 
-    This issue seems to somewhat be contingent on command line length.  The example needed to contain many source files in order for the problem to occur. Commenting out the "GLOB MORE_DUMMY_SOURCES" line in 'Sources/CMakeLists.txt' is enough to make the problem go away.
+This issue seems to somewhat be contingent on command line length.  The example needed to contain many source files in order for the problem to occur. Commenting out the "GLOB MORE_DUMMY_SOURCES" line in 'Sources/CMakeLists.txt' is enough to make the problem go away.
