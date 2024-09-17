@@ -1,6 +1,6 @@
 The issue appears to be that, when compiling/linking many files, the swiftc compiler ends up putting the command line parameters for the link step into a temporary response file.  The problem is that the first parameter is "/LIB", which demands to be the first parameter in the list.  However, because "/LIB" is in the response file, it is not read properly.  If it's taken out of the response file, and put onto the command line, then the link step works as expected.
 
-This issue has been reproduced with swiftc version 5.8.1.
+This issue has been reproduced with swiftc version 5.8.1 on Windows
 
 ## To Build:
 
