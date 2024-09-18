@@ -1,6 +1,6 @@
 The issue appears to be that, when compiling/linking many files, the swiftc compiler ends up putting the command line parameters for the link step into a temporary response file.  The problem is that the first parameter is "/LIB", which demands to be the first parameter in the list.  However, because "/LIB" is in the response file, it is not read properly.  If it's taken out of the response file, and put onto the command line, then the link step works as expected.
 
-This issue has been reproduced with swiftc version 5.8.1 on Windows
+This issue has been reproduced with swiftc version 5.8.1 and 5.10.1 on Windows.
 
 ## To Build:
 
@@ -33,8 +33,12 @@ This issue has been reproduced with swiftc version 5.8.1 on Windows
     C:\BuildTools\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\link.exe @C:\Users\buildmaster\AppData\Local\Temp\TemporaryDirectory.chqGAZ\arguments-7492443228980014747.resp
     error: link command failed with exit code 1561 (use -v to see invocation)
 
-It is (in this case) the response file, arguments-7492443228980014747.resp, which contains the "/LIB" parameter.  If it were removed from the top of the response file, and put on the command line instead, then the link stage would succeed.
+It is (in this case) the response file, arguments-7492443228980014747.resp, which contains the "/LIB" parameter.  If it were removed from the top of the response file, and put on the command line instead, then the link stage would succeed. 
+
+As I see it, the fix to the issue should be:
+* Change the swift-frontend.exe implementation to generate the response file *without* the "/LIB" parameter.
+* Update the link step to *include* the "/LIB" parameter on the command line ( i.e. link.exe /LIB @file)
 
 ### Note:
 
-This issue seems to somewhat be contingent on command line length.  The example needed to contain many source files in order for the problem to occur. Commenting out the "GLOB MORE_DUMMY_SOURCES" line in 'Sources/CMakeLists.txt' is enough to make the problem go away.
+This issue seems to somewhat be contingent on command line length.  The example needed to contain many source files in order for the problem to occur. In the directory structure I created, I could comment out the "GLOB MORE_DUMMY_SOURCES" line in 'Sources/CMakeLists.txt' to make the problem go away.  Your results may vary, depending on where you check out the repository.
